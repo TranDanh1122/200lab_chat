@@ -1,0 +1,182 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "sender": {
+                "name": "Kohaku",
+                "avatar": "./assets/images/1.png",
+                "isOnline": false
+            },
+            "messages": [
+                {
+                    "owner": "Kohaku",
+                    "content": "This is messages 1 from Kohaku",
+                    "sendTime": "10m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Kohaku",
+                    "content": "This is messages 2 from Kohaku",
+                    "sendTime": "10m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 1 from You",
+                    "sendTime": "10m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 3 from Kohaku",
+                    "sendTime": "10m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 2 from You",
+                    "sendTime": "10m",
+                    "status": "received"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "sender": {
+                "name": "Totoro",
+                "avatar": "./assets/images/2.png",
+                "isOnline": true
+            },
+            "messages": [
+                {
+                    "owner": "Totoro",
+                    "content": "This is messages 1 from Totoro",
+                    "sendTime": "10m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 1 from You",
+                    "sendTime": "9m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Totoro",
+                    "content": "This is messages 2 from Totoro",
+                    "sendTime": "8m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Totoro",
+                    "content": "This is messages 3 from Totoro",
+                    "sendTime": "6m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 2 from You",
+                    "sendTime": "5m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Totoro",
+                    "content": "This is messages 4 from Totoro",
+                    "sendTime": "1m",
+                    "status": "send"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "sender": {
+                "name": "Ryo",
+                "avatar": "./assets/images/3.png",
+                "isOnline": true
+            },
+            "messages": [
+                {
+                    "owner": "Ryo",
+                    "content": "This is messages 1 from Ryo",
+                    "sendTime": "10m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 1 from You",
+                    "sendTime": "9m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Ryo",
+                    "content": "This is messages 2 from Ryo",
+                    "sendTime": "8m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Ryo",
+                    "content": "This is messages 3 from Ryo",
+                    "sendTime": "6m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 2 from You",
+                    "sendTime": "5m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Ryo",
+                    "content": "This is messages 4 from Ryo",
+                    "sendTime": "2m",
+                    "status": "send"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "sender": {
+                "name": "Spline",
+                "avatar": "./assets/images/4.png",
+                "isOnline": true
+            },
+            "messages": [
+                {
+                    "owner": "Spline",
+                    "content": "This is messages 1 from Spline",
+                    "sendTime": "10m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 1 from You",
+                    "sendTime": "9m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Spline",
+                    "content": "This is messages 2 from Spline",
+                    "sendTime": "8m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Spline",
+                    "content": "This is messages 3 from Spline",
+                    "sendTime": "6m",
+                    "status": "received"
+                },
+                {
+                    "owner": "",
+                    "content": "This is messages 2 from You",
+                    "sendTime": "5m",
+                    "status": "received"
+                },
+                {
+                    "owner": "Spline",
+                    "content": "This is messages 4 from Spline",
+                    "sendTime": "5m",
+                    "status": "send"
+                }
+            ]
+        }
+    ]
+}
